@@ -8,6 +8,11 @@
   font-family: Arial, sans-serif;
 }
 
+button:hover{
+  transform: scale(1.5);
+}
+
+
 button {
   border-radius: 8px;
   border: none;
@@ -17,3 +22,4 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+
